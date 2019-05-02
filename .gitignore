@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# scratches and old files
+home-data-for-ml-course/
+old/
+submissions/
